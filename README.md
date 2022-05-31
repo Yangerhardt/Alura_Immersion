@@ -1,4 +1,4 @@
-![logo](https://raw.githubusercontent.com/Yangerhardt/Alura_Immersion/main/Immersion/Imers%C3%A3o_Alura_Banner.png)
+![logo](https://raw.githubusercontent.com/Yangerhardt/Alura_Immersion/main/Immersion/Alura_Immersion.png)
 
 # Alura Immersion
 ![GitHub All Releases](https://img.shields.io/github/last-commit/Yangerhardt/Alura_Immersion?logo=GitHub)
